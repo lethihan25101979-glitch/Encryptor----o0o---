@@ -1,4 +1,4 @@
-# Encryptor----o0o---
+# LOJI API  ----o0o---
 This is a program for encrypt any extentions file
 
  ___       ________        ___  ___          ________  ________  ___     
