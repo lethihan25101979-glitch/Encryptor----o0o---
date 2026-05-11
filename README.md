@@ -7,3 +7,10 @@ This is a program for encrypt any extentions file
 ██║     ██║   ██║██   ██║██║    ██╔══██║██╔═══╝ ██║
 ███████╗╚██████╔╝╚█████╔╝██║    ██║  ██║██║     ██║
 ╚══════╝ ╚═════╝  ╚════╝ ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝  nghya
+
+# How to use it?
+1. Install library
+- Command:  pip install cryptography
+2. Run it
+- Command:  python encryptor.py   "or"   python decryptor.py    
+
